@@ -8,9 +8,8 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade da Unicesumar. Atualmente trabalho como WebDesigner e estudo outras linhagens paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-  
+<p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas pela Unicesumar, com experiência profissional como Web Designer. Paralelamente, estou me aprofundando em diversas áreas da tecnologia. Tenho um forte compromisso com a atualização constante dos meus conhecimentos e estou sempre em busca de novos desafios. Minha paixão é aprender e aplicar o que aprendo para desenvolver soluções inovadoras.</p>
+
 #
 
 <img align="right" alt="" height="auto" width="30%" padding-bottom="100px" src="../src/coffee.gif">
