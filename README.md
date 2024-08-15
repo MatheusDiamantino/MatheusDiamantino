@@ -18,7 +18,7 @@
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=Email&logoColor=0000b4&color:FFF)](mailto:matheus.dteles13@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0000b4&color:FFF)](https://www.linkedin.com/in/matheus-diamantino-455534275/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0000b4&color:FFF)](https://www.instagram.com/http_matheus/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0000b4&color:FFF)](https://www.instagram.com/https_matheus/)
 
 <h3 align="left">My Stack ~</h3>
 
