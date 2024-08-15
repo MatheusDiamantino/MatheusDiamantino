@@ -13,7 +13,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   
 #
 
-<img align="right" alt="" height="auto" width="30%" padding-bottom="100px" src="./src/coffee.gif">
+<img align="right" alt="" height="auto" width="30%" padding-bottom="100px" src="../src/coffee.gif">
 
 <h3 align="left">Connect with me!</h3>
 
