@@ -8,7 +8,19 @@
 
 #
 
-<p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas pela Unicesumar, com experiência profissional como Web Designer. Paralelamente, estou me aprofundando em diversas áreas da tecnologia. Tenho um forte compromisso com a atualização constante dos meus conhecimentos e estou sempre em busca de novos desafios. Minha paixão é aprender e aplicar o que aprendo para desenvolver soluções inovadoras.</p>
+<div align="center">
+  <h2>👋 Hello! I'm a Software Developer from Barueri - SP</h2>
+  <p>
+    🎓 Currently a student of Systems Analysis and Development at Unicesumar with professional experience as a Web Designer. 
+    I’m diving deep into various areas of technology and am committed to continually updating my skills. 
+    I am always eager to take on new challenges and apply my learning to create innovative solutions.
+  </p>
+  <p>
+    💼 Currently working as a Front-End Developer <br>
+    📚 Usually learning PHP, React, and MySQL <br>
+    🤔 Feel free to ask me about Vue, Tailwind, Python, or anything tech-related!
+  </p>
+</div>
 
 #
 
@@ -50,8 +62,6 @@
 #
 
 <div align="center">
-
-
 
 </div>
 
