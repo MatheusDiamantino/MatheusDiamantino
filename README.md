@@ -43,14 +43,9 @@
 <h3 align="center">🛠️ My Stack 💻</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" style="margin-right: 60px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo" style="margin-right: 60px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo" style="margin-right: 60px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo" style="margin-right: 60px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo" style="margin-right: 60px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo" style="margin-right: 60px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo" style="margin-right: 60px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,aws,androidstudio,vue" /><br>
+<img src="https://skillicons.dev/icons?i=nodejs,php,javascript,java,mysql,tailwind,react" /><br>
+ 
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
