@@ -36,9 +36,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <!-- sqlite, safari, google-chrome are other good icon options -->
-  <a href="https://github.com/MatheusDiamantino?tab=repositories" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
 </div>
 <h3 align="center">🛠️ My Stack 💻</h3>
 
