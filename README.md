@@ -59,3 +59,5 @@
 <hr/>
 
 <br/>
+
+![Snake animation](https://github.com/MatheusDiamantino/MatheusDiamantino/blob/output/github-contribution-grid-snake.svg)
