@@ -1,63 +1,160 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0000b4&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
+<!-- Banner Topo (substitua pelo seu .gif/.png preferido) -->
 
-#
+<img src="./src/header-gif.gif" alt="Banner animado" width="100%"/>
 
-<div align="center">
-  <h2>👋 Hello! I'm a Software Developer from Barueri - SP</h2>
-  <p>
-    🎓 Currently a student of Systems Analysis and Development at Unicesumar with professional experience as a Web Designer. 
-    I’m diving deep into various areas of technology and am committed to continually updating my skills. 
-    I am always eager to take on new challenges and apply my learning to create innovative solutions.
-  </p>
-  <p>
-    💼 Currently working as a Front-End Developer <br>
-    📚 Usually learning PHP, React, and MySQL <br>
-    🤔 Feel free to ask me about Vue, Tailwind, Python, or anything tech-related!
-  </p>
-</div>
+<!-- Título com digitação -->
 
-#
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=00E6FF&center=true&vCenter=true&random=false&width=800&lines=Hey%2C+eu+sou+o+Matheus!+%F0%9F%91%8B;Front-end+Dev+%E2%9C%A8+UI%2FUX%F0%9F%8E%A8;Sempre+aprendendo+e+construindo+coisas+%F0%9F%9A%80" alt="Typing SVG"/>
+</a>
 
-<!-- <img align="right" alt="" height="auto" width="30%" padding-bottom="100px" src="../src/coffee.gif"> -->
+<!-- Badges de contato / social -->
 
-<h3 align="center">🖥️ Let's Connect! 💻</h3>
-
-<div align="center"> 
+<p>
   <a href="mailto:matheus.dteles13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
   <a href="https://www.linkedin.com/in/matheus-diamantino-455534275/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://github.com/MatheusDiamantino" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<!-- Mini bio -->
+
+<h3>👨‍💻 Desenvolvedor de Software — Barueri/SP</h3>
+<p>
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas (Unicesumar) |
+  Experiência como Web Designer.
+  <br/>
+  💼 Atuo como <b>Front-End Developer</b>.
+  <br/>
+  📚 No momento focado em <b>PHP</b>, <b>React</b> e <b>MySQL</b>.
+  <br/>
+  🤝 Pergunte-me sobre <b>Vue</b>, <b>Tailwind</b>, <b>Python</b> e tudo que é tech!
+</p>
+
+<!-- Separador animado -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E6FF,100:0066FF&height=120&section=footer" width="100%"/>
+
 </div>
-<h3 align="center">🛠️ My Stack 💻</h3>
+
+---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,aws,androidstudio,vue" /><br>
-<img src="https://skillicons.dev/icons?i=nodejs,php,javascript,java,mysql,tailwind,react" /><br>
- 
+
+<!-- GIFs laterais (opcional) -->
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" align="left" alt="coding gif"/>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" align="right" alt="design gif"/>
+
+<h3>⚙️ Tech Playground</h3>
+<p>Gosto de misturar várias tecnologias no dia a dia<BR> do front estiloso ao back enxuto.</p>
+
+<!-- Skillicons em linhas -->
+
+<h2 align="center">
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap"/>
+  </p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql,sqlite,python,git"/>
+  </p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=vite,figma,vercel,netlify,aws,docker,linux,vscode,github"/>
+  </p>
+</h2>
+
+<!-- Badges animadas/estrelas -->
+
+<img src="https://img.shields.io/github/followers/MatheusDiamantino?label=Followers&style=social"/>
+<img src="https://komarev.com/ghpvc/?username=MatheusDiamantino&style=flat-square&color=blue"/>
+
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MatheusDiamantino&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=MatheusDiamantino&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MatheusDiamantino&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+---
+
+<!-- Seção: O que estou fazendo agora -->
+
+<details open>
+<summary><b>🚀 Agora mesmo...</b></summary>
+
+* Refatorando componentes com <b>React + TypeScript</b>
+* Construindo APIs REST leves com <b>PHP</b>
+* Otimizando queries e índices em <b>MySQL</b>
+* Brincando com animações em <b>Tailwind + Framer Motion</b>
+
+</details>
+
+<!-- Seção: Projetos em foco (cartõezinhos) -->
+
+<details>
+<summary><b>🧩 Destaques de projetos</b> (clique para abrir)</summary>
+
+<div align="center">
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusDiamantino&repo=meu-projeto-1&theme=react"/>
+</a>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusDiamantino&repo=meu-projeto-2&theme=react"/>
+</a>
+
 </div>
 
-<br/><br/>
+</details>
 
-<hr/>
+---
 
+<!-- Seção de estatísticas com animações -->
+
+<h2 align="center">📊 Stats & Activity</h2>
 <br/>
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MatheusDiamantino&count_private=true&theme=react&border_radius=10" alt="streak"/>
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=MatheusDiamantino&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="stats"/>
+  <br/>
+  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MatheusDiamantino&hide=HTML&langs_count=10&layout=compact&theme=react&border_radius=10" alt="langs"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusDiamantino&theme=react-dark&hide_title=true&radius=12" alt="activity graph"/>
+</div>
 
-  ![Snake animation](https://github.com/MatheusDiamantino/MatheusDiamantino/blob/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MatheusDiamantino&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" alt="trophies"/>
+</div>
+
+---
+
+<!-- Seção 3D contributions -->
+
+<div align="center">
+  <h2>🧊 3D Contributions</h2>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</div>
+
+---
+
+<!-- Call-to-action final -->
+
+<div align="center">
+  <h2>🤝 Bora construir algo juntos?</h2>
+  <p>Me chama no LinkedIn ou por e-mail — curto código limpo, UI com propósito e produtos que encantam.</p>
+
+  <!-- Botões CTA -->
+
+  <a href="mailto:matheus.dteles13@gmail.com">
+    <img src="https://img.shields.io/badge/Quero%20conversar-Email-FF4D4D?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-diamantino-455534275/" target="_blank">
+    <img src="https://img.shields.io/badge/Conectar-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <!-- Separador final -->
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00E6FF&height=120&section=header" width="100%"/>
+</div>
