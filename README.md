@@ -50,7 +50,7 @@
 
   <!-- GIFs laterais -->
   <div>
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif"/>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="190" alt="coding gif"/>
     <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180" alt="design gif"/>
   </div>
 
