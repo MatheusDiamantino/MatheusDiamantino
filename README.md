@@ -97,7 +97,7 @@
 <div align="center">
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusDiamantino&repo=meu-projeto-1&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusDiamantino&repo=Restaurante-PalaceCode&theme=react"/>
 </a>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusDiamantino&repo=meu-projeto-2&theme=react"/>
