@@ -58,7 +58,8 @@
 
 <!-- Skillicons em linhas -->
 
-<h2 align="center">
+<div align="center">
+  <h2 align="center">
   <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap"/>
   </p>
@@ -69,6 +70,7 @@
     <img src="https://skillicons.dev/icons?i=vite,figma,vercel,netlify,aws,docker,linux,vscode,github"/>
   </p>
 </h2>
+</div>
 
 <!-- Badges animadas/estrelas -->
 
