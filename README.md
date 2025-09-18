@@ -50,8 +50,8 @@
 
 <!-- GIFs laterais (opcional) -->
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" align="left" alt="coding gif"/>
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" align="right" alt="design gif"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="left" alt="coding gif"/>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" align="right" alt="design gif"/>
 
 <h3>⚙️ Tech Playground</h3>
 <p>Gosto de misturar várias tecnologias no dia a dia<BR> do front estiloso ao back enxuto.</p>
