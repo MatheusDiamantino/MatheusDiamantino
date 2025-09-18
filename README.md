@@ -128,14 +128,7 @@
 
 ---
 
-<!-- Seção 3D contributions -->
 
-<div align="center">
-  <h2>🧊 3D Contributions</h2>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</div>
-
----
 
 <!-- Call-to-action final -->
 
