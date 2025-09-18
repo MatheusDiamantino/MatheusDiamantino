@@ -48,35 +48,31 @@
 
 <div align="center">
 
-<!-- GIFs laterais (opcional) -->
+  <!-- GIFs laterais -->
+  <div>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif"/>
+    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="design gif"/>
+  </div>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="left" alt="coding gif"/>
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" align="right" alt="design gif"/>
+  <h3>⚙️ Tech Playground</h3>
+  <p>Gosto de misturar várias tecnologias no dia a dia,<br>do front estiloso ao back enxuto.</p>
 
-<h3>⚙️ Tech Playground</h3>
-<p>Gosto de misturar várias tecnologias no dia a dia<BR> do front estiloso ao back enxuto.</p>
-
-<!-- Skillicons em linhas -->
-
-<div align="center">
-  <h2 align="center">
-  <p align="center">
+  <!-- Skillicons em linhas -->
+  <p>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap"/>
   </p>
-  <p align="center">
+  <p>
     <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql,sqlite,python,git"/>
   </p>
-  <p align="center">
+  <p>
     <img src="https://skillicons.dev/icons?i=vite,figma,vercel,netlify,aws,docker,linux,vscode,github"/>
   </p>
-</h2>
-</div>
 
-<!-- Badges animadas/estrelas -->
-
-<img src="https://img.shields.io/github/followers/MatheusDiamantino?label=Followers&style=social"/>
-<img src="https://komarev.com/ghpvc/?username=MatheusDiamantino&style=flat-square&color=blue"/>
-
+  <!-- Badges animadas/estrelas -->
+  <p>
+    <img src="https://img.shields.io/github/followers/MatheusDiamantino?label=Followers&style=social"/>
+    <img src="https://komarev.com/ghpvc/?username=MatheusDiamantino&style=flat-square&color=blue"/>
+  </p>
 </div>
 
 ---
