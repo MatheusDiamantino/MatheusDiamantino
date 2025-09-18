@@ -100,7 +100,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusDiamantino&repo=Restaurante-PalaceCode&theme=react"/>
 </a>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusDiamantino&Studio-Izlu&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusDiamantino&repo=Studio-Izlu&theme=react"/>
 </a>
 
 </div>
