@@ -113,14 +113,6 @@
 
 <h2 align="center">📊 Stats & Activity</h2>
 <br/>
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MatheusDiamantino&count_private=true&theme=react&border_radius=10" alt="streak"/>
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=MatheusDiamantino&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="stats"/>
-  <br/>
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MatheusDiamantino&hide=HTML&langs_count=10&layout=compact&theme=react&border_radius=10" alt="langs"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusDiamantino&theme=react-dark&hide_title=true&radius=12" alt="activity graph"/>
-</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MatheusDiamantino&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" alt="trophies"/>
