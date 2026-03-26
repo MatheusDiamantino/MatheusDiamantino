@@ -6,7 +6,7 @@
 
 <!-- Título com digitação -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Sans&weight=600&size=30&pause=1000&color=006EF7&center=true&vCenter=true&width=435&lines=Front-End+Developer" alt="Typing SVG" /></a>
+
 <p>
   <a href="mailto:matheus.dteles13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
@@ -21,10 +21,10 @@
 
 <!-- Mini bio -->
 
-<h3>👨‍💻 Desenvolvedor de Software — Barueri/SP</h3>
+<h3>👨‍💻 Desenvolvedor de  Front End — Barueri/SP</h3>
 <p>
   🎓 Estudante de Análise e Desenvolvimento de Sistemas (Unicesumar) |
-  Experiência como Web Designer.
+  Experiência como Dev Front End
   <br/>
   💼 Atuo como <b>Front-End Developer</b>.
   <br/>
@@ -57,10 +57,10 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap"/>
   </p>
   <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql,sqlite,python,git"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql,git"/>
   </p>
   <p>
-    <img src="https://skillicons.dev/icons?i=vite,figma,vercel,netlify,aws,docker,linux,vscode,github"/>
+    <img src="https://skillicons.dev/icons?i=vite,figma,vercel,netlify,aws,linux,vscode,github"/>
   </p>
 
   <!-- Badges animadas/estrelas -->
@@ -83,37 +83,6 @@
 * Brincando com animações em <b>Tailwind + Framer Motion</b>
 
 </details>
-
-<!-- Seção: Projetos em foco (cartõezinhos) -->
-
-<details>
-<summary><b>🧩 Destaques de projetos</b> (clique para abrir)</summary>
-
-<div align="center">
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusDiamantino&repo=Restaurante-PalaceCode&theme=react"/>
-</a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusDiamantino&repo=Studio-Izlu&theme=react"/>
-</a>
-
-</div>
-
-</details>
-
----
-
-<!-- Seção de estatísticas com animações -->
-
-<h2 align="center">📊 Stats & Activity</h2>
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatheusDiamantino&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" alt="trophies"/>
-</div>
-
----
 
 
 
