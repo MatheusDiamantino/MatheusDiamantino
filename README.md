@@ -28,7 +28,7 @@
   <br/>
   💼 Atuo como <b>Front-End Developer</b>.
   <br/>
-  📚 No momento focado em <b>PHP</b>, <b>React</b> e <b>MySQL</b>.
+  📚 No momento focado em <b>PHP</b>, <b>React</b> e <b>TypeScript</b>.
   <br/>
   🤝 Pergunte-me sobre <b>Vue</b> e <b>Tailwind</b> tudo que é tech!
 </p>
