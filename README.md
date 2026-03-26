@@ -6,7 +6,7 @@
 
 <!-- Título com digitação -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=006EF7&center=true&vCenter=true&width=435&lines=Front-End+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Sans&weight=600&size=30&pause=1000&color=006EF7&center=true&vCenter=true&width=435&lines=Front-End+Developer" alt="Typing SVG" /></a>
 <p>
   <a href="mailto:matheus.dteles13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
