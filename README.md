@@ -30,7 +30,7 @@
   <br/>
   📚 No momento focado em <b>PHP</b>, <b>React</b> e <b>MySQL</b>.
   <br/>
-  🤝 Pergunte-me sobre <b>Vue</b>, <b>Tailwind</b>, <b>Python</b> e tudo que é tech!
+  🤝 Pergunte-me sobre <b>Vue</b> e <b>Tailwind</b> tudo que é tech!
 </p>
 
 <!-- Separador animado -->
