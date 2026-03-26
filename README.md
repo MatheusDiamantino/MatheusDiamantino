@@ -102,6 +102,6 @@
   </a>
 
   <!-- Separador final -->
-
+---
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00E6FF&height=120&section=header" width="100%"/>
 </div>
