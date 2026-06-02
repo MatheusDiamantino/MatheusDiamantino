@@ -20,7 +20,7 @@
 
 <!-- Apresentação -->
 
-<h2>👨‍💻 Front-End Developer | React & TypeScript</h2>
+<h2>👨‍💻 Front-End Developer | React, TypeScript & JavaScript</h2>
 
 <p>
   Desenvolvedor Front-End de Barueri/SP, apaixonado por criar interfaces
@@ -29,12 +29,12 @@
 
 <p>
   Gosto de transformar ideias em experiências digitais funcionais,
-  explorando componentes reutilizáveis, animações, performance e boas
-  práticas de desenvolvimento.
+  explorando componentes reutilizáveis, animações, performance
+  e boas práticas de desenvolvimento.
 </p>
 
 <p>
-  <b>React</b> • <b>TypeScript</b> • <b>Tailwind CSS</b> • <b>UI com propósito</b>
+  <b>React</b> • <b>TypeScript</b> • <b>JavaScript</b> • <b>Tailwind CSS</b> • <b>UI com propósito</b>
 </p>
 
 <!-- Separador -->
@@ -83,10 +83,22 @@
 
 ---
 
+## 🎯 Experiência prática
+
+* Desenvolvimento de interfaces com **HTML**, **CSS** e **JavaScript puro**
+* Criação de **Custom Sections** para experiências promocionais e gamificadas
+* Desenvolvimento de **Liquid Sections** para layouts e conteúdos personalizados
+* Construção de componentes reutilizáveis com **React** e **TypeScript**
+* Integração de experiências dinâmicas e jornadas personalizadas
+* Otimização de responsividade, performance e experiência do usuário
+
+---
+
 ## 🚀 Atualmente
 
 * Desenvolvendo componentes reutilizáveis com **React** e **TypeScript**
-* Criando interfaces responsivas com **Tailwind CSS**
+* Criando experiências interativas com **HTML**, **CSS** e **JavaScript**
+* Trabalhando com **Custom Sections** e **Liquid Sections**
 * Explorando animações e microinterações com **Framer Motion**
 * Melhorando performance, organização de código e experiência do usuário
 * Desenvolvendo projetos pessoais para testar novas ideias
