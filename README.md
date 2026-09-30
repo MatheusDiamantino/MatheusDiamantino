@@ -1,11 +1,9 @@
 <div align="center">
 
 <!-- Banner principal -->
-
 <img src="./src/header-gif.gif" alt="Banner animado" width="100%"/>
 
 <!-- Contatos -->
-
 <p>
   <a href="mailto:matheus.dteles13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
@@ -19,26 +17,23 @@
 </p>
 
 <!-- Apresentação -->
-
-<h2>👨‍💻 Front-End Developer | React, TypeScript & JavaScript</h2>
+<h2>👨‍💻 Full-Stack Developer | React, TypeScript & Laravel</h2>
 
 <p>
-  Desenvolvedor Front-End de Barueri/SP, apaixonado por criar interfaces
-  interativas, rápidas e visualmente consistentes.
+  Sou de Barueri/SP e trabalho entre front e back no dia a dia —
+  React e TypeScript de um lado, Laravel e PHP do outro.
 </p>
 
 <p>
-  Gosto de transformar ideias em experiências digitais funcionais,
-  explorando componentes reutilizáveis, animações, performance
-  e boas práticas de desenvolvimento.
+  Gosto de entender o problema inteiro, não só a parte visual. Prefiro
+  código que outra pessoa consegue ler depois sem sofrer.
 </p>
 
 <p>
-  <b>React</b> • <b>TypeScript</b> • <b>JavaScript</b> • <b>Tailwind CSS</b> • <b>UI com propósito</b>
+  <b>React</b> • <b>TypeScript</b> • <b>Laravel</b> • <b>PHP</b> • <b>Tailwind CSS</b>
 </p>
 
 <!-- Separador -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E6FF,100:0066FF&height=110&section=footer" width="100%" alt="Separador visual"/>
 
 </div>
@@ -50,26 +45,26 @@
 <h2>🛠️ Tecnologias</h2>
 
 <h3>Front-End</h3>
-
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" alt="Tecnologias Front-End"/>
 </p>
 
-<h3>Ferramentas e deploy</h3>
+<h3>Back-End</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql" alt="Tecnologias Back-End"/>
+</p>
 
+<h3>Ferramentas e deploy</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,netlify,aws,vscode,linux" alt="Ferramentas e deploy"/>
 </p>
 
 <details>
-  <summary><b>Conhecimentos complementares</b></summary>
-
+  <summary><b>Também já mexi com</b></summary>
   <br/>
-
   <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql,vue,bootstrap" alt="Conhecimentos complementares"/>
+    <img src="https://skillicons.dev/icons?i=vue,bootstrap" alt="Conhecimentos complementares"/>
   </p>
-
 </details>
 
 <br/>
@@ -83,35 +78,30 @@
 
 ---
 
-## 🎯 Experiência prática
+## 🎯 O que eu faço
 
-* Desenvolvimento de interfaces com **HTML**, **CSS** e **JavaScript puro**
-* Criação de **Custom Sections** para experiências promocionais e gamificadas
-* Desenvolvimento de **Liquid Sections** para layouts e conteúdos personalizados
-* Construção de componentes reutilizáveis com **React** e **TypeScript**
-* Integração de experiências dinâmicas e jornadas personalizadas
-* Otimização de responsividade, performance e experiência do usuário
+* Construo interfaces com React, TypeScript e Tailwind
+* Cuido do back-end também — Laravel, modelagem de dados, autenticação, regras de negócio
+* Integro aplicações com APIs REST e serviços externos
+* Organizo projeto por features, não por tipo de arquivo
+* Presto atenção em performance e em como a coisa realmente se comporta pro usuário
 
 ---
 
-## 🚀 Atualmente
+## 🚀 No momento
 
-* Desenvolvendo componentes reutilizáveis com **React** e **TypeScript**
-* Criando experiências interativas com **HTML**, **CSS** e **JavaScript**
-* Trabalhando com **Custom Sections** e **Liquid Sections**
-* Explorando animações e microinterações com **Framer Motion**
-* Melhorando performance, organização de código e experiência do usuário
-* Desenvolvendo projetos pessoais para testar novas ideias
+* Aprofundando em Laravel e PHP
+* Testando ideias novas em projetos pessoais
+* Lendo sobre arquitetura full-stack quando sobra tempo
 
 ---
 
 <div align="center">
 
-<h2>🤝 Bora construir algo juntos?</h2>
+<h2>🤝 Bora trocar uma ideia?</h2>
 
 <p>
-  Curto código limpo, interfaces bem pensadas e projetos que entregam
-  uma experiência agradável para quem usa.
+  Se é sobre código, produto ou alguma ideia maluca de projeto, é só chamar.
 </p>
 
 <p>
