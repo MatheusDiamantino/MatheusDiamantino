@@ -29,7 +29,7 @@ Gosto de entender o problema inteiro, não só a parte visual, e prefiro código
 | [**Spooky Rewards**](https://github.com/MatheusDiamantino/spooky-rewards-widget) | Widget de gamificação de Halloween com missões e recompensas, integrado à Smartico, feito para a UX Group | React, Vite |
 | [**Realsday Christmas**](https://github.com/MatheusDiamantino/realsday-christmas-smartico) | Campanha de Natal com missões, torneios e níveis, integrada à Smartico, feita para a UX Group | React, Vite, SCSS |
 | [**TalentFlow**](https://github.com/MatheusDiamantino/TalentFlow) | Sistema de RH com perfis de admin, RH e colaborador, departamentos e convite por e-mail para criar a senha | Laravel 11, Fortify |
-| [**Palace Code**](https://github.com/MatheusDiamantino/Restaurante-PalaceCode) | TCC: painel de gestão de restaurante com mesas, reservas, cardápio, pedidos, caixa e funcionários | PHP, MySQL, Chart.js |
+| [**Agenda Livewire**](https://github.com/MatheusDiamantino/Livewire) | Agenda de contatos com busca em tempo real, paginação, edição e exclusão, sem escrever JavaScript | Laravel 11, Livewire 3 |
 
 ## Tecnologias
 
